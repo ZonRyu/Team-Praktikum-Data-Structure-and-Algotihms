@@ -199,4 +199,3 @@ public class HashTableCustom {
         return size == 0;
     }
 }
-```
