@@ -41,5 +41,3 @@ public class Mahasiswa {
                 + ", IPK: " + String.format("%.2f", ipk);
     }
 }
-```
-
