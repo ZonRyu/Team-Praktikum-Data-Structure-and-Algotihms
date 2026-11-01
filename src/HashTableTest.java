@@ -27,7 +27,7 @@ public class HashTableTest {
             new Mahasiswa("23016", "Putri", 3.92),
             new Mahasiswa("23017", "Rizky", 3.67),
             new Mahasiswa("23018", "Sinta", 3.83),
-            new Mahasiswa("23019", "Taufik", 3.78),
+            new Mahasiswa("23019", "Tono", 3.78),
             new Mahasiswa("23020", "Vina", 3.86)
         };
 
